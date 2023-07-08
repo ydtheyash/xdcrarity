@@ -33,7 +33,7 @@ Vn = ( Xn / N )
 
 TR = Total Rarity
 
-TR = Tn + Vn
+TR = Tn * Vn
 
 
 
